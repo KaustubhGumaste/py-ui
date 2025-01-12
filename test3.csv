@@ -1,0 +1,4 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.5 - 96 km SE of Lugu, Taiwan",6.5,17-09-2022 13:41,7,7,green,1,756,us,178,0.43,54,mww,10,23.029,121.348,"Lugu, Taiwan",Asia,Taiwan
+"M 7.0 - 209 km SSE of Isangel, Vanuatu",7,14-09-2022 11:04,7,5,green,1,761,us,192,2.977,45,mww,137,-21.2077,170.239,"Isangel, Vanuatu",,
+"M 7.6 - 70 km E of Kainantu, Papua New Guinea",7.6,10-09-2022 23:47,8,8,yellow,1,965,us,272,3.158,12,mww,116,-6.2237,146.471,"Kainantu, Papua New Guinea",Oceania,Papua New Guinea
